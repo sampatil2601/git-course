@@ -1,2 +1,0 @@
-username = smr01
-password = ptl07
